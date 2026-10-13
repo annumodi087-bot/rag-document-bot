@@ -33,4 +33,4 @@ Upload any document and ask questions from it. The bot answers ONLY from your do
 4. Run: `streamlit run rag_app.py`
 
 ## 👩‍💻 Built By
-Annu — AI Developer from Indore, India
+Anushka — AI Developer from Indore, India
